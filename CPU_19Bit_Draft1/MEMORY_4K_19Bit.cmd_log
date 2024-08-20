@@ -1,0 +1,4 @@
+vhdtdtfi -lib work C:/Verilog/CPU_19Bit_Draft1/MEMORY_4K_19Bit.v -lang verilog -prj CPU_19Bit_Draft1 -o MEMORY_4K_19Bit.spl -module MEMORY_4K_19Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 MEMORY_4K_19Bit.spl C:/Verilog/CPU_19Bit_Draft1/MEMORY_4K_19Bit.sym 
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/MEMORY_4K_19Bit.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//MEMORY_4K_19Bit.v -module MEMORY_4K_19Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/MEMORY_4K_19Bit.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//MEMORY_4K_19Bit.v -module MEMORY_4K_19Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

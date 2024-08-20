@@ -1,0 +1,3 @@
+vhdtdtfi -lib work C:/Verilog/CPU_19Bit_Draft1/Deco_3X8.v -lang verilog -prj CPU_19Bit_Draft1 -o Deco_3X8.spl -module Deco_3X8 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Deco_3X8.spl C:/Verilog/CPU_19Bit_Draft1/Deco_3X8.sym 
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/Deco_3X8.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//Deco_3X8.v -module Deco_3X8 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

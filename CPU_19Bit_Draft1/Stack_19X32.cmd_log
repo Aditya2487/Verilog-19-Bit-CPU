@@ -1,0 +1,3 @@
+vhdtdtfi -lib work C:/Verilog/CPU_19Bit_Draft1/Stack_19X32.v -lang verilog -prj CPU_19Bit_Draft1 -o Stack_19X32.spl -module Stack_19X32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Stack_19X32.spl C:/Verilog/CPU_19Bit_Draft1/Stack_19X32.sym 
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/Stack_19X32.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//Stack_19X32.v -module Stack_19X32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

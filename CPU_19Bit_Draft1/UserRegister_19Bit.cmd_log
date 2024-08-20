@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/UserRegister_19Bit.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//UserRegister_19Bit.v -module UserRegister_19Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/UserRegister_19Bit.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//UserRegister_19Bit.v -module UserRegister_19Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

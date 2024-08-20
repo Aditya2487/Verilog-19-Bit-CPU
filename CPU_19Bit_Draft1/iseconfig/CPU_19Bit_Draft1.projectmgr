@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="CPU_19Bit_Draft1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/ALU - ALU_19Bit</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/SeqCounter - SqCounter</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/control_unit - ControlUnit</ClosedNode>
+         <ClosedNode>/ControlUnit C:|Verilog|CPU_19Bit_Draft1|ControlUnit.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>CPU_Main (C:/Verilog/CPU_19Bit_Draft1/CPU_Main.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000170000000020000000000000000000000000200000064ffffffff000000810000000300000002000001700000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>CPU_Main (C:/Verilog/CPU_19Bit_Draft1/CPU_Main.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002d2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000d900000001000000000000004800000001000000000000005d0000000100000000000001540000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>C:\Verilog\CPU_19Bit_Draft1\Deco_2X4.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000014f000000010001000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff000000000000000200000152000000cd01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_TEST C:|Verilog|CPU_19Bit_Draft1|ALU_TEST.v</ClosedNode>
+         <ClosedNode>/ALU_TEST C:|Verilog|CPU_19Bit_Draft1|ALU_TEST.v/uut - ALU_19Bit</ClosedNode>
+         <ClosedNode>/Bus_16X1_test C:|Verilog|CPU_19Bit_Draft1|Bus_16X1_test.v</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/ALU - ALU_19Bit</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/SeqCounter - SqCounter</ClosedNode>
+         <ClosedNode>/CPU_Main C:|Verilog|CPU_19Bit_Draft1|CPU_Main.v/control_unit - ControlUnit</ClosedNode>
+         <ClosedNode>/CPU_TEST C:|Verilog|CPU_19Bit_Draft1|CPU_TEST.v</ClosedNode>
+         <ClosedNode>/CPU_TEST C:|Verilog|CPU_19Bit_Draft1|CPU_TEST.v/ALU - ALU_19Bit</ClosedNode>
+         <ClosedNode>/CPU_TEST C:|Verilog|CPU_19Bit_Draft1|CPU_TEST.v/SeqCounter - SqCounter</ClosedNode>
+         <ClosedNode>/CPU_TEST C:|Verilog|CPU_19Bit_Draft1|CPU_TEST.v/control_unit - ControlUnit</ClosedNode>
+         <ClosedNode>/ControlUnit C:|Verilog|CPU_19Bit_Draft1|ControlUnit.v</ClosedNode>
+         <ClosedNode>/Decoder_Test_2X4 C:|Verilog|CPU_19Bit_Draft1|Decoder_Test_2X4.v</ClosedNode>
+         <ClosedNode>/Decoder_Test_3X8 C:|Verilog|CPU_19Bit_Draft1|Decoder_Test_3X8.v</ClosedNode>
+         <ClosedNode>/Decoder_Test_4X16 C:|Verilog|CPU_19Bit_Draft1|Decoder_Test_4X16.v</ClosedNode>
+         <ClosedNode>/ENC_DNC_test C:|Verilog|CPU_19Bit_Draft1|ENC_DNC_test.v</ClosedNode>
+         <ClosedNode>/Enco16X4_Test C:|Verilog|CPU_19Bit_Draft1|Enco16X4_Test.v</ClosedNode>
+         <ClosedNode>/EqDetector_Test C:|Verilog|CPU_19Bit_Draft1|EqDetector_Test.v</ClosedNode>
+         <ClosedNode>/MEMORY_Test1 C:|Verilog|CPU_19Bit_Draft1|MEMORY_Test1.v</ClosedNode>
+         <ClosedNode>/Registor19BitTesting C:|Verilog|CPU_19Bit_Draft1|Registor19BitTesting.v</ClosedNode>
+         <ClosedNode>/SqCounter_Test C:|Verilog|CPU_19Bit_Draft1|SqCounter_Test.v</ClosedNode>
+         <ClosedNode>/SqCounter_Test C:|Verilog|CPU_19Bit_Draft1|SqCounter_Test.v/uut - SqCounter</ClosedNode>
+         <ClosedNode>/Stack_test C:|Verilog|CPU_19Bit_Draft1|Stack_test.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c6000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c60000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

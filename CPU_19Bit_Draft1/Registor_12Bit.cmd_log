@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/Registor_12Bit.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//Registor_12Bit.v -module Registor_12Bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

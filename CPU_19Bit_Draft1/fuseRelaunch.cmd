@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Verilog/CPU_19Bit_Draft1/CPU_TEST_isim_beh.exe" -prj "C:/Verilog/CPU_19Bit_Draft1/CPU_TEST_beh.prj" "work.CPU_TEST" "work.glbl" 

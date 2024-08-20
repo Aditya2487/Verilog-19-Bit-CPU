@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/Equality_Detector.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//Equality_Detector.v -module Equality_Detector -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

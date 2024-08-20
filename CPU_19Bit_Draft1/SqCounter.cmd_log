@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU_19Bit_Draft1 -o C:/Verilog/CPU_19Bit_Draft1/SqCounter.tfi -lib work C:/Verilog/CPU_19Bit_Draft1//SqCounter.v -module SqCounter -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
